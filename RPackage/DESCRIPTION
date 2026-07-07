@@ -1,0 +1,17 @@
+Package: HydrocarbonProperties
+Type: Package
+Title: Hydrocarbon Properties
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Timothy R.", "McNealy",
+      email = "timothy.r.mcnealy@ttu.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: Hydrocarbon Properties.
+License: BSD_3_clause + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: pracma
+Config/roxygen2/version: 8.0.0

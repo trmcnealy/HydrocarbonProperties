@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("pracma", "fderiv")
+importFrom("grDevices", "rgb")
+importFrom("graphics", "grid", "lines", "polypath", "text")
+#importFrom(Rcpp, evalCpp)
+#useDynLib(ArtificialLiftMapR, .registration = TRUE)
